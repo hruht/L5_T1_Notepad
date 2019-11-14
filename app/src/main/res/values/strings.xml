@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="action_settings">Settings</string>
+    <string name="LastUpdated">Last updated: %1s</string>
+    <string name="MyNotes">My notes:</string>
+    <string name="title_activity_add_activity">Add_activity</string>
+    <string name="yournotehere">Your note here</string>
+</resources>
